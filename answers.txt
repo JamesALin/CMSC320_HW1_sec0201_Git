@@ -7,3 +7,12 @@ Answer: Git is helpful for version control which is important when multiple peop
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare field. For example, data science could be used to work with massive datasets containing patient information across several hospitals.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging joins changes and differences from multiple different version histories while rebase rewrites history and removes old commits.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to becoming proficient in Pandas and SQL as I have used both in the past but I have lost most of my skills and knowledge. 
