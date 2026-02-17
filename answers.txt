@@ -1,4 +1,9 @@
+
 Q1: Why might we consider using Git?
 
 Answer: Git is helpful for version control which is important when multiple people are accessing and editing code. This is crucial for this class as the team project will involve several members accessing the same files and making changes. Git keeps the code organized and tracks version history to prevent overwriting.
 
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Healthcare field. For example, data science could be used to work with massive datasets containing patient information across several hospitals.
